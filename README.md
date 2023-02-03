@@ -1,4 +1,4 @@
-# $$\mathcal{\textcolor{red}{IT314 \ - \ Software \ - \ Engineering}}$$
-$\color[rgb]{1,0,1} hello$
+# $$\mathcal{\textcolor{green}{IT314-Software-Engineering}}$$
+
 #### Name : Virat Chaudhari
 #### ID: 202001240
